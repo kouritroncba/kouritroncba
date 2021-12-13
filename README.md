@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @kouritroncba
-- 👀 I’m interested in all things software engineering.
+Hi, I am kourosh, Welcome to my github account.
 
 <!---
 kouritroncba/kouritroncba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
