@@ -1,4 +1,4 @@
-Hi, I am kourosh, Welcome to my github account.
+Hi, I am kourosh, Welcome to my github.
 
 <!---
 kouritroncba/kouritroncba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
